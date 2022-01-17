@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasana27091996
 - 👀 I’m interested in Java based Frameworks and API's
-- 🌱 I’m currently learning Spring and Microservices..
+- 🌱 I’m currently learning Spring and Microservices...
 - 📫 How to reach me prazana18@gmail.com
 
 <!---
